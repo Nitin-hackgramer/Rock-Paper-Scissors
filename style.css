@@ -33,7 +33,7 @@ img {
     object-fit: cover;
 }
 
-.choices {
+.choices {  
   display: flex;
   justify-content: center;
   align-items: center;
@@ -41,7 +41,7 @@ img {
   margin-top: 5rem;
 }
 
-.score-board{
+.score-board {
     display: flex;
     justify-content: center;
     align-items: center;
